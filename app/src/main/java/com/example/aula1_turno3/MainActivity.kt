@@ -13,5 +13,7 @@ class MainActivity : AppCompatActivity() {
         // mais alguma coisa
 
         // login
+
+        //reset password
     }
 }
